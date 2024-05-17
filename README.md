@@ -9,18 +9,18 @@ This is a Project Management System built with Java 17 and Spring Boot. It provi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/project-management.git
+   git clone https://github.com/shahrukhkh/Project-Management-App-1
 2. Navigate to the project directory:
 
     bash
-    cd project-management
+    cd Project-Management-App-1
 3.  Run the application:
     ./mvnw spring-boot:run
 
 4. Access the H2 console:
 
   URL: http://localhost:8080/h2-console
-  JDBC URL: jdbc:h2:mem:testdb
+  JDBC URL: jdbc:h2:mem:test
   Username: sa
   Password: password
 
